@@ -24,5 +24,4 @@
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav21git&show_icons=true&locale=en&layout=compact" alt="vaibhav21git" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav21git&show_icons=true&locale=en" alt="vaibhav21git" /></p>
