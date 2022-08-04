@@ -27,6 +27,7 @@
 <img align="left" alt="Node.js" width="30px" src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" />
 <img align="left" alt="express.js" width="30px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
 <img align="left" alt="ChakraUI" width="30px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" />
+<img align="left" alt="EJS" width="30px" src="https://www.kindpng.com/picc/m/463-4639889_logo-ejs-hd-png-download.png" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav21git&show_icons=true&locale=en" alt="vaibhav21git" /></p>
