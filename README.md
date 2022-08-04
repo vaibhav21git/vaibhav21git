@@ -26,7 +26,7 @@
 <img align="left" alt="Socket.io" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" />
 <img align="left" alt="express.js" width="30px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
-<img align="left" alt="ChakraUI" width="30px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" />
+<a href="https://chakra-ui.com/" target="_blank"><img align="left" alt="ChakraUI" width="30px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" /></a>
 <img align="left" alt="EJS" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJyfkMz2SmehRXPHxQvDrMhciqv7ZeHRO2B-lHSoBjL5P0Zfza8ZJlWvwkoJbvS8atY&usqp=CAU" />
 </p>
 
