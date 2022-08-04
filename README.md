@@ -23,7 +23,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img align="left" alt="MongoDB" width="26px" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" />
-<img align="left" alt="express.js" width="30px" src="https://www.edureka.co/blog/wp-content/uploads/2019/07/express-logo.png" />
+<img align="left" alt="express.js" width="30px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav21git&show_icons=true&locale=en" alt="vaibhav21git" /></p>
