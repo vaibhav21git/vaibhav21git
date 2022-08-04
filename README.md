@@ -19,7 +19,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="HTML" width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" />
-<img align="left" alt="CSS" width="45px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
+<img align="left" alt="CSS" width="40px" src="https://i.pinimg.com/originals/a3/2f/83/a32f83aa2c675058e4a05a0fd4da05eb.png" />
 <img align="left" alt="Cpp" width="35px" src="https://pics.freeicons.io/uploads/icons/png/9096637371536208089-512.png" />
 <p align="left"> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
