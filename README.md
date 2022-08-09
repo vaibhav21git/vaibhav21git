@@ -26,7 +26,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <img align="left" alt="Mongoose" width="50px" src  = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"/>
 <img align="left" alt="MongoDB" width="50px" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" />
-<img align="left" alt="Socket.io" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Socket-io.svg" />
 <img align="left" alt="Node.js" width="30px" src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" />
 <img align="left" alt="Redux" width="40px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
 <img align="left" alt="express.js" width="30px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
