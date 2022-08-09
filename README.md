@@ -6,6 +6,7 @@
 - 🌱 Digging deep into MERN
 
 - 📫 How to reach me **manusurfer44@gmail.com**
+- 💬 Ask me about **React, Express , C++**
 
 
 <h3 align="left">Connect with me:</h3>
