@@ -29,6 +29,7 @@
 <img align="left" alt="MongoDB" width="50px" src="https://www.servernoobs.com/wp-content/uploads/2016/01/mongodb-logo-1.png" />
 <img align="left" alt="Node.js" width="30px" src="https://everythingiknows.com/wp-content/uploads/2022/04/node-js-new.png" />
 <img align="left" alt="Redux" width="40px" src="https://everyday.codes/wp-content/uploads/2020/01/0-U2DmhXYumRyXH6X1.png" />
+<img align="left" alt="React-bootstrap" width="45px"src = "https://crowdcast-prod.imgix.net/-KHhIzuATU2K4OVPd2sP/event-cover-5388?w=800"/>
 <img align="left" alt="express.js" width="30px" src="https://spng.pngfind.com/pngs/s/136-1363736_express-js-icon-png-transparent-png.png" />
 <a href="https://chakra-ui.com/" target="_blank"><img align="left" alt="ChakraUI" width="30px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" /></a>
 <img align="left" alt="EJS" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJyfkMz2SmehRXPHxQvDrMhciqv7ZeHRO2B-lHSoBjL5P0Zfza8ZJlWvwkoJbvS8atY&usqp=CAU" />
