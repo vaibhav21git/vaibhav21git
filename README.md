@@ -34,5 +34,5 @@
 <a href="https://chakra-ui.com/" target="_blank"><img align="left" alt="ChakraUI" width="30px" src="https://pbs.twimg.com/profile_images/1244925541448286208/rzylUjaf_400x400.jpg" /></a>
 <img align="left" alt="EJS" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6pJyfkMz2SmehRXPHxQvDrMhciqv7ZeHRO2B-lHSoBjL5P0Zfza8ZJlWvwkoJbvS8atY&usqp=CAU" />
 </p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav21git&show_icons=true&locale=en&layout=compact" alt="vaibhav21git" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav21git&show_icons=true&locale=en" alt="vaibhav21git" /></p>
