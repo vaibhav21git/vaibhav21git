@@ -15,7 +15,7 @@
 <a href="https://www.codechef.com/users/manu25907" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rits1272" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaibhavsachdeva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav21" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vaibhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav21" height="30" width="40" /></a>
-<a href="https://medium.com/@vaibhav21nitrkl" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkn1jdjmDEuAL3D_Xx5cxZQ2L6ENQ-U9x4ujCxclndjvAXJWly9IJ83bH2NjbqslZzJk&usqp=CAU" alt="vaibhav21" height="40" width="50" /></a>
+<a href="https://medium.com/@vaibhav21nitrkl" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtkn1jdjmDEuAL3D_Xx5cxZQ2L6ENQ-U9x4ujCxclndjvAXJWly9IJ83bH2NjbqslZzJk&usqp=CAU" alt="vaibhav21" height="30" width="30" /></a>
 <a href="https://codeforces.com/profile/StormyAchiever2103" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="ritikjain1272" height="50" width="40" /></a>
 </p>
 
