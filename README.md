@@ -13,10 +13,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/vaibhav21nitrkl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vaibhav21nitrkl" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/manu25907" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rits1272" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/vaibhavsachdeva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rits1272" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/vaibhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ritikjain1272" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/vaibhavsachdeva2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaibhav21" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/vaibhav2103" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vaibhav21" height="30" width="40" /></a>
+<a href="https://medium.com/@vaibhav21nitrkl" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/83213763/186931564-a811885d-3fa7-46b1-8a6f-189824648f23.png)
+" alt="vaibhav21" height="40" width="50" /></a>
 <a href="https://codeforces.com/profile/StormyAchiever2103" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/code-forces-3521352-2944796.png" alt="ritikjain1272" height="50" width="40" /></a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="HTML"  width="40px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-orange.png" />
